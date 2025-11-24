@@ -45,13 +45,6 @@ Reduces stock in real time
 
 Updates Sales Amount and Profit calculation
 
-🧠 System Architecture
-Customers Table ─┐
-                  ├── Sales Entry ──┐
-Vendors Table ───┘                 │
-                                    ├── Inventory Table ─── Dashboard
-Products Table ─── Purchase Entry ─┘
-
 📊 Dashboard Preview
 
 Dashboard View
